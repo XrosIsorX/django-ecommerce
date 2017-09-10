@@ -1,0 +1,8 @@
+.navbar-inverse .navbar-brand {
+    color: #ff0000;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #92b777;
+    border-color: #92b777;
+}
